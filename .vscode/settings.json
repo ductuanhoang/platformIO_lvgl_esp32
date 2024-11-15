@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "lv_demo_benchmark.h": "c",
+        "ui_helpers.h": "c",
+        "ui.h": "c",
+        "lvgl.h": "c",
+        "action.h": "c",
+        "arduino.h": "c",
+        "common_config.h": "c"
+    },
+    "cmake.sourceDirectory": "D:/2.upwork/91.Beer/platformIO_lvgl8/platformIO_lvgl/.pio/libdeps/esp32doit-devkit-v1/Adafruit BusIO"
+}
